@@ -6,3 +6,6 @@ Simple and Easy to use
 ```
 python script.py
 ```
+
+
+USE THIS AT YOUR OWN RISK THIS WAS CREATED FOR EDUCATIONAL PURPOSES
